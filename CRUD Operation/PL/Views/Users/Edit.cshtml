@@ -1,0 +1,18 @@
+﻿@model ApplicationUser
+@{
+    ViewData["Title"] = "Update";
+}
+
+<h1>Update User</h1>
+
+<form asp-action="Edit" asp-controller="Users" class="mt-3">
+    <div asp-validation-summary="All"></div>
+    <input hidden asp-for="Id" />
+    <partial name="ParitialViews/CreateEditUsersParitialView" />
+    <input type="submit" class="btn btn-primary" value="Save" /> |
+    <a asp-action="Index" asp-controller="Users" class="btn btn-light">Back to Lists</a><br />
+</form>
+@section scriptsection{
+    <script src="/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+} 

@@ -1,0 +1,45 @@
+D:\Work\Projects\C#\Projects\Session2\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Work\Projects\C#\Projects\Session2\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+D:\Work\Projects\C#\Projects\Session2\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+D:\Work\Projects\C#\Projects\Session2\DAL\bin\Debug\net5.0\DAL.dll
+D:\Work\Projects\C#\Projects\Session2\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Work\Projects\C#\Projects\Session2\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Work\Projects\C#\Projects\Session2\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\C#\Projects\Session2\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Work\Projects\C#\Projects\Session2\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Work\Projects\C#\Projects\Session2\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Work\Projects\C#\Projects\Session2\DAL\obj\Debug\net5.0\DAL.dll
+D:\Work\Projects\C#\Projects\Session2\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\Work\Projects\C#\Projects\Session2\DAL\obj\Debug\net5.0\DAL.pdb
+D:\Work\Projects\C#\Projects\Session2\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+D:\Work\Projects\C#\Projects\Session2\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\bin\Debug\net5.0\DAL.dll
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.dll
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.pdb
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+D:\Work\Projects\C#\Projects\CRUD Operation\DAL\obj\Debug\net5.0\ref\DAL.dll
+D:\Work\Projects\CRUD Operation\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Work\Projects\CRUD Operation\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+D:\Work\Projects\CRUD Operation\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+D:\Work\Projects\CRUD Operation\DAL\bin\Debug\net5.0\DAL.dll
+D:\Work\Projects\CRUD Operation\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Work\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Work\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Work\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Work\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Work\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.dll
+D:\Work\Projects\CRUD Operation\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\Work\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.pdb
+D:\Work\Projects\CRUD Operation\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+D:\Work\Projects\CRUD Operation\DAL\obj\Debug\net5.0\ref\DAL.dll

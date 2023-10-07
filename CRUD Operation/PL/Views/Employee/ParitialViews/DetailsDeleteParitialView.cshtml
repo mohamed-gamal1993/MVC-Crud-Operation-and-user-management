@@ -1,0 +1,36 @@
+﻿@model EmployeeViewModel
+<div class="form-group w-50">
+    <label asp-for="Name" class="col-form-label"></label>
+    <input class="form-control" asp-for="Name" readonly />
+
+    <label asp-for="Age" class="col-form-label"></label>
+    <input class="form-control" asp-for="Age" readonly />
+
+
+    <label asp-for="Address" class="col-form-label"></label>
+    <input class="form-control" asp-for="Address" readonly />
+
+
+    <label asp-for="Salary" class="col-form-label"></label>
+    <input class="form-control" asp-for="Salary" readonly />
+
+
+    <label asp-for="IsActive" class="col-form-label"></label>
+    <input class="form-control" asp-for="IsActive" disabled />
+
+
+    <label asp-for="Email" class="col-form-label"></label>
+    <input class="form-control" asp-for="Email" readonly />
+
+
+    <label asp-for="PhoneNumber" class="col-form-label"></label>
+    <input class="form-control" asp-for="PhoneNumber" readonly />
+
+
+    <label asp-for="HireDate" class="col-form-label"></label>
+    <input class="form-control" asp-for="HireDate" readonly />
+
+    <label asp-for="Image" class="col-form-label"></label>
+    <div><img src="~/files/Images/@Model.ImageName" alt="Image" width="80" height="80" class="img-fluid rounded" /></div>
+</div>
+<input hidden asp-for="ImageName" />

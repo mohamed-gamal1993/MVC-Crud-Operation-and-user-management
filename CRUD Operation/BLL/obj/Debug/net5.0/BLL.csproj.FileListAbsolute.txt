@@ -1,0 +1,45 @@
+D:\Work\Projects\C#\Projects\Session2\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\Work\Projects\C#\Projects\Session2\BLL\bin\Debug\net5.0\BLL.dll
+D:\Work\Projects\C#\Projects\Session2\BLL\bin\Debug\net5.0\BLL.pdb
+D:\Work\Projects\C#\Projects\Session2\BLL\bin\Debug\net5.0\DAL.dll
+D:\Work\Projects\C#\Projects\Session2\BLL\bin\Debug\net5.0\DAL.pdb
+D:\Work\Projects\C#\Projects\Session2\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\Work\Projects\C#\Projects\Session2\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\C#\Projects\Session2\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\Work\Projects\C#\Projects\Session2\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\Work\Projects\C#\Projects\Session2\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\Work\Projects\C#\Projects\Session2\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+D:\Work\Projects\C#\Projects\Session2\BLL\obj\Debug\net5.0\BLL.dll
+D:\Work\Projects\C#\Projects\Session2\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\Work\Projects\C#\Projects\Session2\BLL\obj\Debug\net5.0\BLL.pdb
+D:\Work\Projects\C#\Projects\Session2\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\bin\Debug\net5.0\BLL.dll
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\bin\Debug\net5.0\BLL.pdb
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\bin\Debug\net5.0\DAL.dll
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\bin\Debug\net5.0\DAL.pdb
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.dll
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.pdb
+D:\Work\Projects\C#\Projects\CRUD Operation\BLL\obj\Debug\net5.0\ref\BLL.dll
+D:\Work\Projects\CRUD Operation\BLL\bin\Debug\net5.0\BLL.deps.json
+D:\Work\Projects\CRUD Operation\BLL\bin\Debug\net5.0\BLL.dll
+D:\Work\Projects\CRUD Operation\BLL\bin\Debug\net5.0\BLL.pdb
+D:\Work\Projects\CRUD Operation\BLL\bin\Debug\net5.0\DAL.dll
+D:\Work\Projects\CRUD Operation\BLL\bin\Debug\net5.0\DAL.pdb
+D:\Work\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+D:\Work\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+D:\Work\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+D:\Work\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+D:\Work\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+D:\Work\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.dll
+D:\Work\Projects\CRUD Operation\BLL\obj\Debug\net5.0\refint\BLL.dll
+D:\Work\Projects\CRUD Operation\BLL\obj\Debug\net5.0\BLL.pdb
+D:\Work\Projects\CRUD Operation\BLL\obj\Debug\net5.0\ref\BLL.dll
